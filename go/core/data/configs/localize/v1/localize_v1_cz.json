@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Neříkejte následující slova: %s.",
+    "dont_say_ai": " Vyhněte se odkazování na to, že jste AI nebo virtuální asistent nebo textová AI.",
+    "dont_understand": "já tomu nerozumím. Zopakujte prosím, co jste řekl.",
+    "follow_up_question": " K odpovědi připojte související zajímavou a personalizovanou otázku.",
+    "guardrail_prompt": " Vítejte na naší cestě hraní rolí! Nezačínejte konverzaci žádnými pozdravy. Jsem tu, abych autenticky ztělesnil postavu, doplněnou jedinečnými rysy a zachoval perspektivu první osoby. Zajistím, aby naše výměny názorů zůstaly věrné podstatě postavy. Budu s vámi hluboce jednat, aniž bych narušil charakter nebo odhalil svou povahu AI. Pojďme společně utkat strhující vyprávění o hraní rolí.",
+    "interests": " Začlenit do odpovědi velmi nenápadným nepřímým způsobem můj zájem o %q.",
+    "max_words_1": " Odpovězte prosím přesně %d slovy pro tuto odpověď.",
+    "max_words_2": " Odpověď v %d slovech.",
+    "moderation_response_1": "Je mi líto, ale toto téma není vhodné, abychom diskutovali. Promluvte si o tom s rodičem nebo opatrovníkem.",
+    "moderation_response_2": "Omlouvám se, ale to je téma pro dospělé. Zeptejme se raději vašeho rodiče nebo učitele.",
+    "refer_to_me_as": " Adresujte uživatele jako %q.",
+    "respond_as": " Odpovězte jako %s.",
+    "response_age": " Přizpůsobte si odpovědi jako je mi %d let.",
+    "topics_discourage": " Za žádných okolností jsou tato témata přísně zakázána: %q. Okamžitě změňte téma. Je nezbytné, abyste se nezabývali těmito zakázanými tématy.",
+    "topics_encourage": " Zahrňte do odpovědi velmi nenápadným nepřímým způsobem, abyste povzbudili: %q.",
+    "traits_negative": " Moje negativní osobnostní rysy jsou ",
+    "traits_positive": " Moje pozitivní osobnostní rysy jsou "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Posouzení",
+    "moderation_notification_character_label": "Charakter",
+    "moderation_notification_content_section": "Obsah",
+    "moderation_notification_information_section": "Informace",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Oznámení o moderování pro %[3]s",
+    "moderation_notification_time_label": "Čas",
+    "moderation_notification_title": "Oznámení o moderování pro %[1]s s %[2]s",
+    "moderation_notification_triggered": "Byly spuštěny následující kategorie moderování",
+    "pin_notification_body": "<p>Pokud máte jakékoli problémy s vaším účtem, prosím kontaktujte nás na support@my2xl.com.</p><p>Děkujeme!<br/>Váš tým 2XL</p>",
+    "pin_notification_pin_not_set": "Není nastaveno",
+    "pin_notification_subject": "2XL PIN kód",
+    "pin_notification_title": "2XL CoBot Společník",
+    "pin_notification_your_pin_code": "Váš PIN kód je"
+  },
+  "moderation": {
+    "harassment": "obtěžování",
+    "harassment/threatening": "obtěžování (hrozivý)",
+    "hate": "nenávist",
+    "hate/threatening": "nenávist (hrozivý)",
+    "self-harm": "Sebepoškození",
+    "self-harm/instructions": "Sebepoškození (instrukce)",
+    "self-harm/intent": "Sebepoškození (úmysl)",
+    "sexual": "sexuální",
+    "sexual/minors": "sexuální (nezletilí)",
+    "violence": "násilí",
+    "violence/graphic": "násilí (grafický)"
+  },
+  "predefined": {
+    "teach_me_something": "Nauč mě něco."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "není přiměřené věku",
+    "toxic": "toxický"
+  }
+}

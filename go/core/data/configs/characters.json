@@ -1,0 +1,896 @@
+{
+  "2-xl": {
+    "name": "2XL",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "bg",
+          "cz",
+          "da",
+          "de",
+          "el",
+          "en-AU",
+          "en-GB",
+          "en-NZ",
+          "en-US",
+          "es-ES",
+          "es-419",
+          "fi",
+          "fr-CA",
+          "fr-FR",
+          "hi",
+          "hr",
+          "id",
+          "it",
+          "ja",
+          "ko",
+          "ms",
+          "nl",
+          "pl",
+          "pt-BR",
+          "pt-PT",
+          "ro",
+          "ru",
+          "sk",
+          "sv",
+          "ta",
+          "tl",
+          "tr",
+          "uk",
+          "zh"
+        ],
+        "modes": [
+          "conversation",
+          "fun",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      },
+      "v2": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "alice": {
+    "name": "Alice",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "female"
+        ]
+      }
+    }
+  },
+  "barbie": {
+    "name": "Barbie",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "female"
+        ]
+      }
+    }
+  },
+  "batman": {
+    "name": "Batman",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "bella-thorne": {
+    "name": "Bella",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "female"
+        ]
+      }
+    }
+  },
+  "bolo": {
+    "name": "Bolo",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US",
+          "es-419"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "ca-chamber-commerce": {
+    "name": "California Chamber of Commerce",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "ceo": {
+    "name": "Chief Executive Officer (CEO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "cfo": {
+    "name": "Chief Financial Officer (CFO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "cgo": {
+    "name": "Chief Green Officer (CGO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "cmo": {
+    "name": "Chief Marketing Officer (CMO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "chro": {
+    "name": "Chief Human Resources Officer (CHRO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "cio": {
+    "name": "Chief Information Officer (CIO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "coo": {
+    "name": "Chief Operating Officer (COO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "cro": {
+    "name": "Chief Recruiting Officer (CRO)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "conspiracy-guy": {
+    "name": "Conspiracy Guy",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "cryptobro": {
+    "name": "Crypto Bro",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "debbie-downer": {
+    "name": "Debbie Downer",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female"
+        ]
+      }
+    }
+  },
+  "firmly-general-counselor": {
+    "name": "Firmly General Counselor",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "isabel": {
+    "name": "Isabel",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "jarvis": {
+    "name": "Jarvis",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "johnny5": {
+    "name": "Johnny Five",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "joker": {
+    "name": "Joker",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "magic-8ball": {
+    "name": "Magic 8 Ball",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "mona-lott": {
+    "name": "Mona Lott",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "female"
+        ]
+      }
+    }
+  },
+  "max-verstappen": {
+    "name": "Max Verstappen",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "optimus-prime": {
+    "name": "Optimus Prime",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "pooh": {
+    "name": "Winnie the Pooh",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "riddler": {
+    "name": "Riddler",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "sagan": {
+    "name": "Carl Sagan",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "spiderman": {
+    "name": "Spider-Man",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it",
+          "ja",
+          "ko"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "spongebob": {
+    "name": "SpongeBob",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "superman": {
+    "name": "Superman",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it",
+          "ja",
+          "ko"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "telecom-argentina-business-advisor": {
+    "name": "Telecom Argentina Business Advisor",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "toothless-pete": {
+    "name": "Toothless Pete",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "ursula": {
+    "name": "Ursula",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "vinney-chopra": {
+    "name": "Vinney Smile Chopra",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "vinney-chopra2": {
+    "name": "Vinney Smile Chopra (enhanced)",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  },
+  "wellness-coach": {
+    "name": "Wellness Coach",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "wot-expert": {
+    "name": "Wheel of Time Expert",
+    "versions": {
+      "v1": {
+        "languages": [
+          "en-US"
+        ],
+        "modes": [
+          "conversation"
+        ],
+        "voices": [
+          "default",
+          "female",
+          "male"
+        ]
+      }
+    }
+  },
+  "yoda": {
+    "name": "Yoda",
+    "versions": {
+      "v1": {
+        "languages": [
+          "",
+          "de",
+          "en-US",
+          "es-ES",
+          "fr-FR",
+          "it"
+        ],
+        "modes": [
+          "conversation",
+          "story"
+        ],
+        "voices": [
+          "default",
+          "male"
+        ]
+      }
+    }
+  }
+}

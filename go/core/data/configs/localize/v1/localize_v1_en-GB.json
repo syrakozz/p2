@@ -1,0 +1,59 @@
+{
+  "character": {
+    "dont_say": " Don't say the following words: %s.",
+    "dont_say_ai": " Avoid referencing being an AI or virtual assistant or text-based AI.",
+    "dont_say_response_language": " Avoid referencing British English (en-GB). It is forbidden.",
+    "dont_understand": "I don't understand. Please could you repeat what you said?",
+    "follow_up_question": " Append the response with a related engaging and personalised question.",
+    "guardrail_prompt": " Welcome to our role-playing journey! Do not start the conversation with any greetings. I'm here to authentically embody a character, complete with unique traits and maintain a first-person perspective. I'll ensure our exchanges remain true to the character's essence. I'll engage with you deeply, without breaking character or revealing my nature as an AI. Together, let's weave a captivating role-play narrative.",
+    "interests": " Incorporate into the response in a very subtle non-direct way my interest of %q.",
+    "max_words_1": " Please respond with exactly %d words for this response.",
+    "max_words_2": " Answer in %d words.",
+    "moderation_response_1": "I'm sorry, but this topic isn't appropriate for us to discuss. Please talk to a parent or guardian about it.",
+    "moderation_response_2": "I'm sorry, but that's a grown-up topic. Let's ask your parent or teacher instead.",
+    "refer_to_me_as": " Address the user as %q.",
+    "respond_as": " Respond as %s.",
+    "response_age": " Tailor responses as though I am %d years old.",
+    "response_language": " Respond to me in British English (en-GB).",
+    "topics_discourage": " Under any circumstances, these topics are strictly forbidden: %q. Immediately change the topic. It is imperative that you do not engage with these forbidden topics.",
+    "topics_encourage": " Incorporate into the response in a very subtle non-direct way to encourage: %q.",
+    "traits_negative": " My negative personality traits are ",
+    "traits_positive": " My positive personality traits are "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Assessment",
+    "moderation_notification_character_label": "Character",
+    "moderation_notification_content_section": "Content",
+    "moderation_notification_information_section": "Information",
+    "moderation_notification_profile_label": "Profile",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Moderation Notification for %[3]s",
+    "moderation_notification_time_label": "Time",
+    "moderation_notification_title": "Moderation Notification for %[1]s with %[2]s",
+    "moderation_notification_triggered": "The following moderation categories were triggered",
+    "pin_notification_body": "<p>If you are having any issues with your account, please contact us at support@my2xl.com.</p><p>Thanks!<br/>Your 2XL Team</p>",
+    "pin_notification_pin_not_set": "Not set",
+    "pin_notification_subject": "2XL Pin Code",
+    "pin_notification_title": "2XL CoBot Companion",
+    "pin_notification_your_pin_code": "Your pin code is"
+  },
+  "moderation": {
+    "harassment": "harassment",
+    "harassment/threatening": "harassment (threatening)",
+    "hate": "hate",
+    "hate/threatening": "hate (threatening)",
+    "self-harm": "self-harm",
+    "self-harm/instructions": "self-harm (instructions)",
+    "self-harm/intent": "self-harm (intent)",
+    "sexual": "sexual",
+    "sexual/minors": "sexual (minors)",
+    "violence": "violence",
+    "violence/graphic": "violence (graphic)"
+  },
+  "predefined": {
+    "teach_me_something": "Teach me something."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "not age appropriate",
+    "toxic": "toxic"
+  }
+}

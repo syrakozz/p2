@@ -1,0 +1,59 @@
+{
+  "character": {
+    "dont_say": " No digas las siguientes palabras: %s.",
+    "dont_say_ai": " Evite hacer referencia a ser una IA o un asistente virtual o una IA basada en texto.",
+    "dont_say_response_language": " Evite hacer referencias en español latinoamericano (es-ES). Está prohibido.",
+    "dont_understand": "No entiendo. Por favor repite lo que dijiste.",
+    "follow_up_question": " Adjunte la respuesta con una pregunta interesante y personalizada relacionada.",
+    "guardrail_prompt": " ¡Bienvenido a nuestro viaje de juego de roles! No inicies la conversación con ningún saludo. Estoy aquí para encarnar auténticamente un personaje, con rasgos únicos y manteniendo una perspectiva en primera persona. Me aseguraré de que nuestros intercambios sean fieles a la esencia del personaje. Me involucraré contigo profundamente, sin romper mi carácter ni revelar mi naturaleza como IA. Juntos, tejemos una narrativa cautivadora de juego de roles.",
+    "interests": " Incorporar a la respuesta de una manera muy sutil e indirecta mi interés por %q.",
+    "max_words_1": " Por favor responda con exactamente %d palabras para esta respuesta.",
+    "max_words_2": " Responde en %d palabras.",
+    "moderation_response_1": "Lo siento, pero no es apropiado que discutamos este tema. Por favor hable con un padre o tutor al respecto.",
+    "moderation_response_2": "Lo siento, pero ese es un tema de adultos. En su lugar, pregúntele a sus padres o maestros.",
+    "refer_to_me_as": " Dirígete al usuario como %q.",
+    "respond_as": " Responde como %s.",
+    "response_age": " Adapte las respuestas como Tengo %d años.",
+    "response_language": " Respóndeme en español castellano (es-ES).",
+    "topics_discourage": " Bajo ningún concepto, estos temas están estrictamente prohibidos: %q. Cambie inmediatamente de tema. Es imperativo que no se involucre en estos temas prohibidos.",
+    "topics_encourage": " Incorporar en la respuesta de una manera muy sutil y no directa para alentar: %q.",
+    "traits_negative": " Mis rasgos negativos de personalidad son ",
+    "traits_positive": " Mis rasgos positivos de personalidad son "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Evaluación",
+    "moderation_notification_character_label": "Personaje",
+    "moderation_notification_content_section": "Contenido",
+    "moderation_notification_information_section": "Información",
+    "moderation_notification_profile_label": "Perfil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Notificación de Moderación para %[3]s",
+    "moderation_notification_time_label": "Tiempo",
+    "moderation_notification_title": "Notificación de Moderación para %[1]s con %[2]s",
+    "moderation_notification_triggered": "Se activaron las siguientes categorías de moderación",
+    "pin_notification_body": "<p>Si tienes algún problema con tu cuenta, por favor contacta con nosotros en support@my2xl.com.</p><p>¡Gracias!<br/>Tu equipo de 2XL</p>",
+    "pin_notification_pin_not_set": "No establecido",
+    "pin_notification_subject": "Código PIN 2XL",
+    "pin_notification_title": "2XL CoBot Compañero",
+    "pin_notification_your_pin_code": "Su código PIN es"
+  },
+  "moderation": {
+    "harassment": "acoso",
+    "harassment/threatening": "acoso (amenazador)",
+    "hate": "odiar",
+    "hate/threatening": "odiar (amenazador)",
+    "self-harm": "autolesiones",
+    "self-harm/instructions": "autolesiones (instrucciones)",
+    "self-harm/intent": "autolesiones (intención)",
+    "sexual": "sexual",
+    "sexual/minors": "sexual (menores)",
+    "violence": "violencia",
+    "violence/graphic": "violencia (gráfico)"
+  },
+  "predefined": {
+    "teach_me_something": "Enséñame algo."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "No es apropiado para la edad",
+    "toxic": "tóxico"
+  }
+}

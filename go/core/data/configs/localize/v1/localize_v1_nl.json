@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Zeg niet de volgende woorden: %s.",
+    "dont_say_ai": " Vermijd te verwijzen naar een AI, een virtuele assistent of een op tekst gebaseerde AI.",
+    "dont_understand": "Ik begrijp het niet. Herhaal alstublieft wat u zei.",
+    "follow_up_question": " Voeg aan het antwoord een gerelateerde boeiende en gepersonaliseerde vraag toe.",
+    "guardrail_prompt": " Welkom bij onze rollenspelreis! Begin het gesprek niet met een begroeting. Ik ben hier om op authentieke wijze een personage te belichamen, compleet met unieke eigenschappen en om het perspectief van de eerste persoon te behouden. Ik zal ervoor zorgen dat onze uitwisselingen trouw blijven aan de essentie van het personage. Ik zal diep met je in gesprek gaan, zonder je karakter te breken of mijn aard als AI te onthullen. Laten we samen een boeiend rollenspelverhaal weven.",
+    "interests": " Verwerk op een heel subtiele, niet-directe manier mijn interesse in %q in het antwoord.",
+    "max_words_1": " Reageer alstublieft met exact %d woorden voor dit antwoord.",
+    "max_words_2": " Antwoord in %d woorden.",
+    "moderation_response_1": "Het spijt me, maar dit onderwerp is niet geschikt voor ons om te bespreken. Praat er alstublieft over met een ouder of voogd.",
+    "moderation_response_2": "Sorry, maar dat is een volwassen onderwerp. Laten we het in plaats daarvan aan je ouder of leraar vragen.",
+    "refer_to_me_as": " Adresseer de gebruiker als %q.",
+    "respond_as": " Reageer als %s.",
+    "response_age": " Pas reacties aan zoals ik ben %d jaar oud.",
+    "topics_discourage": " Onder alle omstandigheden zijn deze onderwerpen ten strengste verboden: %q. Verander onmiddellijk van onderwerp. Het is absoluut noodzakelijk dat u zich niet met deze verboden onderwerpen bezighoudt.",
+    "topics_encourage": " Verwerk het in de reactie op een zeer subtiele, niet-directe manier om aan te moedigen: %q.",
+    "traits_negative": " Mijn negatieve persoonlijkheidskenmerken zijn ",
+    "traits_positive": " Mijn positieve persoonlijkheidskenmerken zijn "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Onderzoek",
+    "moderation_notification_character_label": "Karakter",
+    "moderation_notification_content_section": "Inhoud",
+    "moderation_notification_information_section": "Informatie",
+    "moderation_notification_profile_label": "Profiel",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Moderatiemelding voor %[3]s",
+    "moderation_notification_time_label": "Tijd",
+    "moderation_notification_title": "Moderatiemelding voor %[1]s met %[2]s",
+    "moderation_notification_triggered": "De volgende moderatiecategorieën zijn geactiveerd",
+    "pin_notification_body": "<p>Als u problemen ondervindt met uw account, neem dan contact met ons op via support@my2xl.com.</p><p>Bedankt!<br/>Uw 2XL Team</p>",
+    "pin_notification_pin_not_set": "Niet ingesteld",
+    "pin_notification_subject": "2XL PIN-code",
+    "pin_notification_title": "2XL CoBot Metgezel",
+    "pin_notification_your_pin_code": "Uw pincode is"
+  },
+  "moderation": {
+    "harassment": "intimidatie",
+    "harassment/threatening": "intimidatie (bedreigend)",
+    "hate": "hekel",
+    "hate/threatening": "hekel (bedreigend)",
+    "self-harm": "zelf pijniging",
+    "self-harm/instructions": "zelf pijniging (instructies)",
+    "self-harm/intent": "zelf pijniging (bedoeling)",
+    "sexual": "seksueel",
+    "sexual/minors": "seksueel (minderjarigen)",
+    "violence": "geweld",
+    "violence/graphic": "geweld (grafisch)"
+  },
+  "predefined": {
+    "teach_me_something": "Leer mij iets."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "niet leeftijdsadequaat",
+    "toxic": "giftig"
+  }
+}

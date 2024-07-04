@@ -1,0 +1,41 @@
+# ARGS
+ARG DIS_ENV
+ARG DIS_BUILD_IMAGE
+ARG DIS_BUILD_COMMIT
+ARG DIS_BUILD_DATETIME
+ARG DIS_BUILD_TAG
+
+# BUILDER
+FROM golang:1.21-alpine as builder
+
+WORKDIR /go/delivery
+COPY . .
+
+RUN apk add gcc g++ opus-dev
+
+RUN go build -ldflags "-s -w" disruptive/cmd/saged
+
+# SERVICE
+FROM alpine:latest
+
+RUN apk update && \    
+    apk add --no-cache ca-certificates && \
+    rm -rf /var/cache/apk/*
+
+ARG DIS_ENV
+ARG DIS_BUILD_IMAGE
+ARG DIS_BUILD_COMMIT
+ARG DIS_BUILD_DATETIME
+ARG DIS_BUILD_TAG
+
+ENV DIS_ENV=$DIS_ENV
+ENV DIS_BUILD_IMAGE=$DIS_BUILD_IMAGE
+ENV DIS_BUILD_COMMIT=$DIS_BUILD_COMMIT
+ENV DIS_BUILD_DATETIME=$DIS_BUILD_DATETIME
+ENV DIS_BUILD_TAG=$DIS_BUILD_TAG
+
+WORKDIR /root
+COPY --from=builder /go/delivery/saged .
+COPY --from=builder /usr/lib/libopus.so.0 /usr/lib
+
+CMD ["./saged"]

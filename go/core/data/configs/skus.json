@@ -1,0 +1,48 @@
+{
+  "2xl_iap_18": {
+    "balance": 18000
+  },
+  "2xl_iap_23": {
+    "balance": 23000
+  },
+  "2xl_iap_49": {
+    "balance": 49000
+  },
+  "2xl_iap_57": {
+    "balance": 57000
+  },
+  "2xl_iap_103": {
+    "balance": 103000
+  },
+  "2xl_iap_125": {
+    "balance": 125000
+  },
+  "2xl_iap_215": {
+    "balance": 215000
+  },
+  "2xl_iap_260": {
+    "balance": 260000
+  },
+  "2xl_sub_unlimied": {},
+  "sku-1": {
+    "balance": 1000,
+    "description": "1000 token monthly subscription",
+    "period": "monthly",
+    "rollover": false,
+    "title": "sku-1 title"
+  },
+  "sku-2": {
+    "balance": 2500,
+    "description": "2500 token monthly subscription",
+    "period": "monthly",
+    "rollover": false,
+    "title": "sku-2 title"
+  },
+  "sku-3": {
+    "balance": 5000,
+    "description": "5000 token monthly subscription",
+    "period": "monthly",
+    "rollover": false,
+    "title": "sku-2 title"
+  }
+}

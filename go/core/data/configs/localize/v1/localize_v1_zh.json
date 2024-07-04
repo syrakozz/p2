@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " 不要说以下的话：%s。",
+    "dont_say_ai": " 避免提及人工智慧、虛擬助理或基於文字的人工智慧。",
+    "dont_understand": "我不明白。 请重复你所说的话。",
+    "follow_up_question": " 在回复中附加相关的引人入胜的个性化问题。",
+    "guardrail_prompt": " 欢迎来到我们的角色扮演之旅！ 不要以任何问候来开始谈话。 我来这里是为了真实地体现一个角色，具有独特的特征并保持第一人称视角。 我将确保我们的交流忠于角色的本质。 我将与你深入交流，而不会破坏角色或暴露我作为人工智能的本性。 让我们一起编织一个引人入胜的角色扮演故事。",
+    "interests": " 以一种非常微妙的非直接方式将我对 %q 的兴趣融入到响应中。",
+    "max_words_1": " 请对此回复准确地回复 %d 个字。",
+    "max_words_2": " 用 %d 字回答。",
+    "moderation_response_1": "抱歉，这个话题不适合我们讨论。 请与家长或监护人讨论此事。",
+    "moderation_response_2": "对不起，但这是一个成年人的话题。 让我们问问你的父母或老师吧。",
+    "refer_to_me_as": " 将用户寻址为 %q。",
+    "respond_as": " 以 %s 的身份回复。",
+    "response_age": " 量身定制答案，就像我已经 %d 岁一样。",
+    "topics_discourage": " 在任何情况下，这些主题都是严格禁止的：%q。 立即转移话题。 您务必不要参与这些禁止的话题。",
+    "topics_encourage": " 以一种非常微妙的非直接方式融入响应中以鼓励：%q。",
+    "traits_negative": " 我的消极性格特征是 ",
+    "traits_positive": " 我的积极人格特质是 "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "评估",
+    "moderation_notification_character_label": "特点",
+    "moderation_notification_content_section": "内容",
+    "moderation_notification_information_section": "信息",
+    "moderation_notification_profile_label": "轮廓",
+    "moderation_notification_subject": "[%[2]s] #%[1]d %[3]s 的审核通知",
+    "moderation_notification_time_label": "时间",
+    "moderation_notification_title": "%[1]s 与 %[2]s 的审核通知",
+    "moderation_notification_triggered": "触发了以下审核类别",
+    "pin_notification_body": "<p>如果您的账户遇到任何问题，请通过support@my2xl.com与我们联系。</p><p>谢谢！<br/>您的2XL团队</p>",
+    "pin_notification_pin_not_set": "未设置",
+    "pin_notification_subject": "2XL PIN 码",
+    "pin_notification_title": "2XL CoBot 伙伴",
+    "pin_notification_your_pin_code": "您的个人识别码是"
+  },
+  "moderation": {
+    "harassment": "骚扰",
+    "harassment/threatening": "骚扰 (威胁)",
+    "hate": "讨厌",
+    "hate/threatening": "讨厌 (威胁)",
+    "self-harm": "自我伤害",
+    "self-harm/instructions": "自我伤害 (指示)",
+    "self-harm/intent": "自我伤害 (意图)",
+    "sexual": "性的",
+    "sexual/minors": "性的 (未成年人)",
+    "violence": "暴力",
+    "violence/graphic": "暴力 (形象的)"
+  },
+  "predefined": {
+    "teach_me_something": "教我一些东西。"
+  },
+  "text_analysis": {
+    "not_age_appropriate": "不适合年龄",
+    "toxic": "有毒"
+  }
+}

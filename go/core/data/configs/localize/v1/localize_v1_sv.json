@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Säg inte följande ord: %s.",
+    "dont_say_ai": " Undvik att referera till att vara en AI eller virtuell assistent eller textbaserad AI.",
+    "dont_understand": "jag förstår inte. Vänligen upprepa vad du sa.",
+    "follow_up_question": " Bifoga svaret med en relaterad engagerande och personlig fråga.",
+    "guardrail_prompt": " Välkommen till vår rollspelsresa! Börja inte konversationen med några hälsningar. Jag är här för att på ett autentiskt sätt förkroppsliga en karaktär, komplett med unika egenskaper och behålla ett förstapersonsperspektiv. Jag ska se till att våra utbyten förblir trogna karaktärens väsen. Jag kommer att engagera mig djupt med dig, utan att bryta karaktären eller avslöja min natur som AI. Låt oss tillsammans väva en fängslande rollspelsberättelse.",
+    "interests": " Inkludera i svaret på ett mycket subtilt icke-direkt sätt mitt intresse av %q.",
+    "max_words_1": " Vänligen svara med exakt %d ord för detta svar.",
+    "max_words_2": " Svara med %d ord.",
+    "moderation_response_1": "Jag är ledsen, men det här ämnet är inte lämpligt för oss att diskutera. Prata med en förälder eller vårdnadshavare om det.",
+    "moderation_response_2": "Jag är ledsen, men det är ett vuxet ämne. Låt oss fråga din förälder eller lärare istället.",
+    "refer_to_me_as": " Adressera användaren som %q.",
+    "respond_as": " Svara som %s.",
+    "response_age": " Skräddarsy svar som jag är %d år gammal.",
+    "topics_discourage": " Under alla omständigheter är dessa ämnen strängt förbjudna: %q. Byt ämne omedelbart. Det är absolut nödvändigt att du inte engagerar dig i dessa förbjudna ämnen.",
+    "topics_encourage": " Inkludera i svaret på ett mycket subtilt icke-direkt sätt för att uppmuntra: %q.",
+    "traits_negative": " Mina negativa personlighetsdrag är ",
+    "traits_positive": " Mina positiva personlighetsdrag är "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "bedömning",
+    "moderation_notification_character_label": "Karaktär",
+    "moderation_notification_content_section": "Innehåll",
+    "moderation_notification_information_section": "Information",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Modereringsmeddelande för %[3]s",
+    "moderation_notification_time_label": "Tid",
+    "moderation_notification_title": "Moderation Meddelande för %[1]s med %[2]s",
+    "moderation_notification_triggered": "Följande modereringskategorier utlöstes",
+    "pin_notification_body": "<p>Om du har några problem med ditt konto, vänligen kontakta oss på support@my2xl.com.</p><p>Tack!<br/>Ditt 2XL-team</p>",
+    "pin_notification_pin_not_set": "Inte inställt",
+    "pin_notification_subject": "2XL PIN-kod",
+    "pin_notification_title": "2XL CoBot Kamrat",
+    "pin_notification_your_pin_code": "Din PIN-kod är"
+  },
+  "moderation": {
+    "harassment": "trakasserier",
+    "harassment/threatening": "trakasserier (hotfull)",
+    "hate": "hata",
+    "hate/threatening": "hata (hotfull)",
+    "self-harm": "självskada",
+    "self-harm/instructions": "självskada (instruktioner)",
+    "self-harm/intent": "självskada (avsikt)",
+    "sexual": "sexuell",
+    "sexual/minors": "sexuell (minderåriga)",
+    "violence": "våld",
+    "violence/graphic": "våld (grafisk)"
+  },
+  "predefined": {
+    "teach_me_something": "Lär mig något."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "inte åldersanpassad",
+    "toxic": "toxisk"
+  }
+}

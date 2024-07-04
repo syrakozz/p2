@@ -1,0 +1,36 @@
+{
+  "negative_prompts": [
+    "bad proportions",
+    "cropped head",
+    "deformed",
+    "disfigured",
+    "extra arms",
+    "extra limbs",
+    "face cut",
+    "fused fingers",
+    "head cut",
+    "ugly",
+    "long neck",
+    "malformed limbs",
+    "mutated hands",
+    "mutation",
+    "mutilated",
+    "poorly drawn face",
+    "text"    
+  ],
+  "styles": [
+    "anime",
+    "comic-book",
+    "digital-art",
+    "enhance",
+    "fantasy-art",
+    "isometric",
+    "line-art",
+    "low-poly",
+    "modeling-compound",
+    "neon-punk",
+    "origami",
+    "pixel-art",
+    "tile-texture"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Huwag sabihin ang mga sumusunod na salita: %s.",
+    "dont_say_ai": " Iwasang banggitin ang pagiging AI o virtual assistant o text-based na AI.",
+    "dont_understand": "hindi ko maintindihan. Pakiulit ang sinabi mo.",
+    "follow_up_question": " Idagdag ang tugon sa isang nauugnay na nakakaengganyo at personalized na tanong.",
+    "guardrail_prompt": " Welcome sa aming role-playing journey! Huwag simulan ang pag-uusap sa anumang pagbati. Nandito ako upang tunay na isama ang isang karakter, kumpleto sa mga natatanging katangian at mapanatili ang isang pananaw sa unang tao. Sisiguraduhin kong mananatiling totoo ang ating mga palitan sa esensya ng karakter. Makikipag-ugnayan ako sa iyo nang malalim, nang hindi sinisira ang pagkatao o ibinubunyag ang aking kalikasan bilang isang AI. Sama-sama tayong maghabi ng isang mapang-akit na salaysay ng dula-dulaan.",
+    "interests": " Isama sa tugon sa isang napaka banayad na hindi direktang paraan ang aking interes na %q.",
+    "max_words_1": " Isama sa tugon sa isang napaka banayad na hindi nagbibigay ng paraan sa aking interes na %q.",
+    "max_words_2": " Sagot sa %d salita.",
+    "moderation_response_1": "Paumanhin, ngunit ang paksang ito ay hindi angkop na pag-usapan natin. Mangyaring makipag-usap sa isang magulang o tagapag-alaga tungkol dito.",
+    "moderation_response_2": "Paumanhin, ngunit iyon ay isang pang-matandang paksa. Sa halip, tanungin natin ang iyong magulang o guro.",
+    "refer_to_me_as": " I-address ang user bilang %q.",
+    "respond_as": " Tumugon bilang %s.",
+    "response_age": " Iangkop ang mga tugon tulad ng ako ay %d taong gulang.",
+    "topics_discourage": " Sa anumang sitwasyon, ang mga paksang ito ay mahigpit na ipinagbabawal: %q. Ibahin agad ang topic. Kinakailangan na huwag kang makisali sa mga ipinagbabawal na paksang ito.",
+    "topics_encourage": " Isama sa tugon sa isang napaka banayad na hindi direktang paraan upang hikayatin ang: %q.",
+    "traits_negative": " Ang mga negatibong katangian ko ay ",
+    "traits_positive": " Ang mga positibong katangian ko ay "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Pagtatasa",
+    "moderation_notification_character_label": "karakter",
+    "moderation_notification_content_section": "Nilalaman",
+    "moderation_notification_information_section": "Impormasyon",
+    "moderation_notification_profile_label": "Profile",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Moderation Notification para sa %[3]s",
+    "moderation_notification_time_label": "Oras",
+    "moderation_notification_title": "Notification ng Moderation para sa %[1]s na may %[2]s",
+    "moderation_notification_triggered": "Na-trigger ang mga sumusunod na kategorya ng moderation",
+    "pin_notification_body": "<p>Kung mayroon kang anumang problema sa iyong account, mangyaring makipag-ugnayan sa amin sa support@my2xl.com.</p><p>Salamat!<br/>Ang iyong 2XL Team</p>",
+    "pin_notification_pin_not_set": "Hindi itinakda",
+    "pin_notification_subject": "2XL Pin Code",
+    "pin_notification_title": "2XL CoBot Kasama",
+    "pin_notification_your_pin_code": "Ang iyong PIN code ay"
+  },
+  "moderation": {
+    "harassment": "panliligalig",
+    "harassment/threatening": "panliligalig (pagbabanta)",
+    "hate": "poot",
+    "hate/threatening": "poot (pagbabanta)",
+    "self-harm": "pananakit sa sarili",
+    "self-harm/instructions": "pananakit sa sarili (mga tagubilin)",
+    "self-harm/intent": "pananakit sa sarili (layunin)",
+    "sexual": "sekswal",
+    "sexual/minors": "sekswal (mga menor de edad)",
+    "violence": "karahasan",
+    "violence/graphic": "karahasan (graphic)"
+  },
+  "predefined": {
+    "teach_me_something": "Turuan mo ako ng isang bagay."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "hindi naaangkop sa edad",
+    "toxic": "nakakalason"
+  }
+}

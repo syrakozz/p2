@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Не казвайте следните думи: %s.",
+    "dont_say_ai": " Избягвайте да споменавате, че сте AI или виртуален асистент или базиран на текст AI.",
+    "dont_understand": "аз не разбирам Моля, повторете казаното.",
+    "follow_up_question": " Добавете отговора със свързан ангажиращ и персонализиран въпрос.",
+    "guardrail_prompt": " Добре дошли в нашето ролево пътешествие! Не започвайте разговора с поздрави. Тук съм, за да въплътя автентично герой, пълен с уникални черти и да поддържам гледна точка от първо лице. Ще се погрижа обменът ни да остане верен на същността на героя. Ще се ангажирам дълбоко с вас, без да нарушавам характера си или да разкривам природата си като AI. Нека заедно изплетем завладяващ разказ за ролева игра.",
+    "interests": " Включете в отговора по много фин недиректен начин моя интерес към %q.",
+    "max_words_1": " Моля, отговорете с точно %d думи за този отговор.",
+    "max_words_2": " Отговорете с %d думи.",
+    "moderation_response_1": "Съжалявам, но тази тема не е подходяща за обсъждане. Моля, говорете с родител или настойник за това.",
+    "moderation_response_2": "Съжалявам, но това е тема за възрастни. Вместо това нека попитаме вашия родител или учител.",
+    "refer_to_me_as": " Адресирайте потребителя като %q.",
+    "respond_as": " Отговорете като %s.",
+    "response_age": " Персонализирайте отговорите като на %d години съм.",
+    "topics_discourage": " При никакви обстоятелства тези теми са строго забранени: %q. Веднага сменете темата. Задължително е да не се занимавате с тези забранени теми.",
+    "topics_encourage": " Включете в отговора по много фин непряк начин, за да насърчите: %q.",
+    "traits_negative": " Отрицателните ми личностни черти са ",
+    "traits_positive": " Положителните ми личностни черти са "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Оценяване",
+    "moderation_notification_character_label": "Характер",
+    "moderation_notification_content_section": "Съдържание",
+    "moderation_notification_information_section": "Информация",
+    "moderation_notification_profile_label": "Профил",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Известие за модериране за %[3]s",
+    "moderation_notification_time_label": "време",
+    "moderation_notification_title": "Известие за модериране за %[1]s с %[2]s",
+    "moderation_notification_triggered": "Бяха задействани следните категории за модериране",
+    "pin_notification_body": "<p>Ако имате някакви проблеми с вашия акаунт, моля свържете се с нас на support@my2xl.com.</p><p>Благодарим ви!<br/>Вашият екип 2XL</p>",
+    "pin_notification_pin_not_set": "Не е зададено",
+    "pin_notification_subject": "2XL ПИН код",
+    "pin_notification_title": "2XL CoBot спътник",
+    "pin_notification_your_pin_code": "Вашият пин код е"
+  },
+  "moderation": {
+    "harassment": "тормоз",
+    "harassment/threatening": "тормоз (заплашителен)",
+    "hate": "омраза",
+    "hate/threatening": "омраза (заплашителен)",
+    "self-harm": "самонаранявам",
+    "self-harm/instructions": "самонаранявам (инструкции)",
+    "self-harm/intent": "самонаранявам (намерение)",
+    "sexual": "сексуален",
+    "sexual/minors": "сексуален (непълнолетни)",
+    "violence": "насилие",
+    "violence/graphic": "насилие (графика)"
+  },
+  "predefined": {
+    "teach_me_something": "Научи ме на нещо."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "не е подходящ за възрастта",
+    "toxic": "токсичен"
+  }
+}

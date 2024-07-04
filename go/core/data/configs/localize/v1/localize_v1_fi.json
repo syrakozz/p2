@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Älä sano seuraavia sanoja: %s.",
+    "dont_say_ai": " Vältä viittaamasta tekoälyyn tai virtuaaliseen assistenttiin tai tekstipohjaiseen tekoälyyn.",
+    "dont_understand": "En ymmärrä. Ole hyvä ja toista mitä sanoit.",
+    "follow_up_question": " Liitä vastaukseen asiaan liittyvä kiinnostava ja henkilökohtainen kysymys.",
+    "guardrail_prompt": " Tervetuloa roolipelimatkallemme! Älä aloita keskustelua millään tervehdyksellä. Olen täällä edustamassa aidosti hahmoa ainutlaatuisilla piirteillä ja ylläpitääkseni ensimmäisen persoonan näkökulmaa. Varmistan, että vaihtomme pysyy uskollisena hahmon olemukseen. Olen tekemisissä kanssasi syvästi rikkomatta luonnetta tai paljastamatta luonnettani tekoälynä. Pudotaan yhdessä mukaansatempaava roolileikkikertomus.",
+    "interests": " Sisällytä vastaukseen erittäin hienovaraisella ei-suoralla tavalla kiinnostukseni %q:sta.",
+    "max_words_1": " Vastaa tähän vastaukseen täsmälleen %d sanalla.",
+    "max_words_2": " Vastaa %d sanalla.",
+    "moderation_response_1": "Olen pahoillani, mutta tämä aihe ei sovi meille keskusteluun. Keskustele asiasta vanhemman tai huoltajan kanssa.",
+    "moderation_response_2": "Anteeksi, mutta tämä on aikuisten aihe. Kysytään vanhemmiltasi tai opettajaltasi.",
+    "refer_to_me_as": " Osoita käyttäjälle %q.",
+    "respond_as": " Vastaa nimellä %s.",
+    "response_age": " Räätälöi vastaukset, kuten olen %d-vuotias.",
+    "topics_discourage": " Nämä aiheet ovat kaikissa olosuhteissa ankarasti kiellettyjä: %q. Vaihda heti aihetta. On ehdottoman tärkeää, että et puutu näihin kiellettyihin aiheisiin.",
+    "topics_encourage": " Sisällytä vastaukseen erittäin hienovaraisella ja epäsuoralla tavalla kannustaaksesi: %q.",
+    "traits_negative": " Negatiiviset persoonallisuuspiirteeni ovat ",
+    "traits_positive": " Positiiviset persoonallisuuspiirteeni ovat "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Arviointi",
+    "moderation_notification_character_label": "Merkki",
+    "moderation_notification_content_section": "Sisältö",
+    "moderation_notification_information_section": "Tiedot",
+    "moderation_notification_profile_label": "Profiili",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Valvontailmoitus %[3]s:lle",
+    "moderation_notification_time_label": "Aika",
+    "moderation_notification_title": "Valvontailmoitus: %[1]s ja %[2]s",
+    "moderation_notification_triggered": "Seuraavat valvontaluokat käynnistettiin",
+    "pin_notification_body": "<p>Jos sinulla on ongelmia tilisi kanssa, ole hyvä ja ota yhteyttä meihin osoitteessa support@my2xl.com.</p><p>Kiitos!<br/>2XL-tiimisi</p>",
+    "pin_notification_pin_not_set": "Ei asetettu",
+    "pin_notification_subject": "2XL PIN-koodi",
+    "pin_notification_title": "2XL CoBot Kumppani",
+    "pin_notification_your_pin_code": "PIN-koodisi on"
+  },
+  "moderation": {
+    "harassment": "häirintää",
+    "harassment/threatening": "häirintää (uhkaava)",
+    "hate": "vihaa",
+    "hate/threatening": "vihaa (uhkaava)",
+    "self-harm": "itsetuhoisuus",
+    "self-harm/instructions": "itsetuhoisuus (ohjeet)",
+    "self-harm/intent": "itsetuhoisuus (tahallisuus)",
+    "sexual": "seksuaalinen",
+    "sexual/minors": "seksuaalinen (alaikäiset)",
+    "violence": "väkivaltaa",
+    "violence/graphic": "väkivaltaa (graafinen)"
+  },
+  "predefined": {
+    "teach_me_something": "Opeta minulle jotain."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "ei ole ikään sopiva",
+    "toxic": "myrkyllinen"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " 次の言葉は言わないでください: %s。",
+    "dont_say_ai": " AI、仮想アシスタント、またはテキストベースの AI について言及することは避けてください。",
+    "dont_understand": "理解できない。 あなたが言ったことを繰り返してください。",
+    "follow_up_question": " 関連する魅力的でパーソナライズされた質問を応答に追加します。",
+    "guardrail_prompt": " ロールプレイングの旅へようこそ! 会話を挨拶から始めないでください。 私は、ユニークな特徴を備えたキャラクターを忠実に体現し、一人称視点を維持するためにここにいます。 私たちのやりとりがキャラクターの本質に忠実であることを保証します。 性格を壊したり、AIとしての本性を明らかにしたりすることなく、あなたと深く関わっていきます。 一緒に魅力的なロールプレイの物語を織り上げましょう。",
+    "interests": " %q に対する私の関心を、直接的ではない非常に微妙な方法で応答に組み込みます。",
+    "max_words_1": " この応答に対して正確に %d 単語で応答してください。",
+    "max_words_2": " %d 語で答えてください。",
+    "moderation_response_1": "申し訳ありませんが、この話題は私たちが議論するのには適していません。 それについては保護者の方にご相談ください。",
+    "moderation_response_2": "申し訳ありませんが、大人の話題です。 代わりに親か先生に聞いてみましょう。",
+    "refer_to_me_as": " ユーザーのアドレスを %q として指定します。",
+    "respond_as": " %s として応答します。",
+    "response_age": " 「私は %d 歳です」のように応答を調整します。",
+    "topics_discourage": " いかなる状況においても、これらのトピックは固く禁止されています: %q。 すぐに話題を変えます。 これらの禁止されたトピックには関与しないことが不可欠です。",
+    "topics_encourage": " 非常に微妙な非直接的な方法で応答に組み込み、奨励します: %q。",
+    "traits_negative": " 私のネガティブな性格特性は、 ",
+    "traits_positive": " 私のポジティブな性格特性は、 "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "評価",
+    "moderation_notification_character_label": "キャラクター",
+    "moderation_notification_content_section": "コンテンツ",
+    "moderation_notification_information_section": "情報",
+    "moderation_notification_profile_label": "プロフィール",
+    "moderation_notification_subject": "[%[2]s] #%[1]d %[3]s のモデレーション通知",
+    "moderation_notification_time_label": "時間",
+    "moderation_notification_title": "%[2]s による %[1]s のモデレート通知",
+    "moderation_notification_triggered": "次のモデレーション カテゴリがトリガーされました",
+    "pin_notification_body": "<p>アカウントに問題がある場合は、support@my2xl.comまでご連絡ください。</p><p>ありがとうございます！<br/>2XLチームより</p>",
+    "pin_notification_pin_not_set": "設定されていません",
+    "pin_notification_subject": "2XL ピンコード",
+    "pin_notification_title": "2XL CoBot コンパニオン",
+    "pin_notification_your_pin_code": "あなたの暗証番号は"
+  },
+  "moderation": {
+    "harassment": "嫌がらせ",
+    "harassment/threatening": "嫌がらせ (脅迫的な)",
+    "hate": "嫌い",
+    "hate/threatening": "嫌い (脅迫的な)",
+    "self-harm": "自傷",
+    "self-harm/instructions": "自傷 (説明書)",
+    "self-harm/intent": "自傷 (意図)",
+    "sexual": "性的",
+    "sexual/minors": "性的 (未成年者)",
+    "violence": "暴力",
+    "violence/graphic": "暴力 (躍如)"
+  },
+  "predefined": {
+    "teach_me_something": "何か教えてください。"
+  },
+  "text_analysis": {
+    "not_age_appropriate": "年齢相応ではない",
+    "toxic": "有毒"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Ne izgovarajte sljedeće riječi: %s.",
+    "dont_say_ai": " Izbjegavajte referencu da ste AI ili virtualni pomoćnik ili AI koji se temelji na tekstu.",
+    "dont_understand": "ne razumijem Molim te ponovi što si rekao.",
+    "follow_up_question": " Odgovoru dodajte povezano zanimljivo i personalizirano pitanje.",
+    "guardrail_prompt": " Dobrodošli na naše putovanje igranjem uloga! Ne započinjite razgovor nikakvim pozdravima. Ovdje sam kako bih autentično utjelovio lik, s jedinstvenim osobinama i zadržao perspektivu iz prvog lica. Pobrinut ću se da naše razmjene ostanu vjerne biti lika. Duboko ću stupiti u kontakt s tobom, bez narušavanja karaktera ili otkrivanja svoje prirode AI-ja. Zajedno istkajmo zadivljujuću priču u obliku igre uloga.",
+    "interests": " Uključite u odgovor na vrlo suptilan neizravan način moje zanimanje za %q.",
+    "max_words_1": " Odgovorite s točno %d riječi za ovaj odgovor.",
+    "max_words_2": " Odgovori u %d riječi.",
+    "moderation_response_1": "Žao mi je, ali ova tema nije prikladna za razgovor. Molimo razgovarajte s roditeljem ili skrbnikom o tome.",
+    "moderation_response_2": "Žao mi je, ali to je tema za odrasle. Pitajmo umjesto toga tvog roditelja ili učitelja.",
+    "refer_to_me_as": " Obratite se korisniku kao %q.",
+    "respond_as": " Odgovorite kao %s.",
+    "response_age": " Prilagodite odgovore kao da imam %d godina.",
+    "topics_discourage": " Ni pod kojim okolnostima, ove teme su strogo zabranjene: %q. Odmah promijenite temu. Imperativ je da se ne bavite ovim zabranjenim temama.",
+    "topics_encourage": " Uključite u odgovor na vrlo suptilan neizravan način da potaknete: %q.",
+    "traits_negative": " Moje negativne osobine ličnosti su ",
+    "traits_positive": " Moje pozitivne osobine ličnosti su "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Procjena",
+    "moderation_notification_character_label": "Lik",
+    "moderation_notification_content_section": "Sadržaj",
+    "moderation_notification_information_section": "Informacija",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Obavijest o moderiranju za %[3]s",
+    "moderation_notification_time_label": "Vrijeme",
+    "moderation_notification_title": "Obavijest o moderiranju za %[1]s s %[2]s",
+    "moderation_notification_triggered": "Pokrenute su sljedeće kategorije moderiranja",
+    "pin_notification_body": "<p>Ako imate bilo kakvih problema s vašim računom, molimo kontaktirajte nas na support@my2xl.com.</p><p>Hvala!<br/>Vaš 2XL tim</p>",
+    "pin_notification_pin_not_set": "Nije postavljeno",
+    "pin_notification_subject": "2XL PIN kod",
+    "pin_notification_title": "2XL CoBot Pratilac",
+    "pin_notification_your_pin_code": "Vaš PIN kod je"
+  },
+  "moderation": {
+    "harassment": "uznemiravanje",
+    "harassment/threatening": "uznemiravanje (prijeteći)",
+    "hate": "mrziti",
+    "hate/threatening": "mrziti (prijeteći)",
+    "self-harm": "samoozljeđivanje",
+    "self-harm/instructions": "samoozljeđivanje (upute)",
+    "self-harm/intent": "samoozljeđivanje (namjera)",
+    "sexual": "spolni",
+    "sexual/minors": "spolni (maloljetnici)",
+    "violence": "nasilje",
+    "violence/graphic": "nasilje (grafički)"
+  },
+  "predefined": {
+    "teach_me_something": "Nauči me nešto."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "nije primjereno dobi",
+    "toxic": "otrovan"
+  }
+}

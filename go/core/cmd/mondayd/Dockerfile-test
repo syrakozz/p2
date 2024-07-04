@@ -1,0 +1,17 @@
+FROM golang:1.21-alpine as builder
+
+WORKDIR /go/delivery
+COPY . .
+
+RUN apk add gcc g++
+
+RUN go install github.com/mgechev/revive@master
+
+RUN CGO_ENABLED=0 go build -ldflags "-s -w" disruptive/cmd/mondayd
+
+RUN revive -set_exit_status cmd/common/...
+RUN revive -set_exit_status cmd/mondayd/...
+RUN revive -set_exit_status lib/monday/...
+RUN revive -set_exit_status rest/monday/...
+
+RUN go test ./lib/monday/...

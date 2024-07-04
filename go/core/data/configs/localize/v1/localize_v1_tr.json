@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Şu kelimeleri söyleme: %s.",
+    "dont_say_ai": " Yapay zeka, sanal asistan veya metin tabanlı yapay zeka olmaktan kaçının.",
+    "dont_understand": "Anlamıyorum. Lütfen söylediklerinizi tekrar edin.",
+    "follow_up_question": " Yanıtı ilgili ilgi çekici ve kişiselleştirilmiş bir soruyla ekleyin.",
+    "guardrail_prompt": " Rol yapma yolculuğumuza hoş geldiniz! Konuşmaya herhangi bir selamlamayla başlamayın. Benzersiz özelliklerle tamamlanmış bir karakteri özgün bir şekilde somutlaştırmak ve birinci şahıs bakış açısını sürdürmek için buradayım. Konuşmalarımızın karakterin özüne sadık kalmasını sağlayacağım. Karakterimi bozmadan veya bir yapay zeka olarak doğamı açığa vurmadan sizinle derin bir etkileşim kuracağım. Gelin birlikte büyüleyici bir rol oyunu anlatımı oluşturalım.",
+    "interests": " %q ilgimi çok ince ve doğrudan olmayan bir şekilde cevaba dahil edin.",
+    "max_words_1": " Lütfen bu yanıt için tam olarak %d kelimeyle yanıt verin.",
+    "max_words_2": " %d kelimeyle yanıtlayın.",
+    "moderation_response_1": "Üzgünüm ama bu konu bizim tartışmamız için uygun değil. Lütfen bu konuyu bir ebeveyn veya vasi ile konuşun.",
+    "moderation_response_2": "Kusura bakmayın ama bu yetişkinlere özel bir konu. Bunun yerine ebeveyninize veya öğretmeninize soralım.",
+    "refer_to_me_as": " Kullanıcıya %q olarak hitap edin.",
+    "respond_as": " %s olarak yanıt verin.",
+    "response_age": " %d yaşındayım gibi yanıtları uyarlayın.",
+    "topics_discourage": " Hiçbir koşulda şu konular kesinlikle yasaktır: %q. Derhal konuyu değiştirin. Bu yasak konulara girmemeniz zorunludur.",
+    "topics_encourage": " Teşvik etmek için çok ince ve doğrudan olmayan bir şekilde cevaba dahil edin: %q.",
+    "traits_negative": " Olumsuz kişilik özelliklerim ",
+    "traits_positive": " Olumlu kişilik özelliklerim "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Değerlendirme",
+    "moderation_notification_character_label": "Karakter",
+    "moderation_notification_content_section": "İçerik",
+    "moderation_notification_information_section": "Bilgi",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d %[3]s için Moderasyon Bildirimi",
+    "moderation_notification_time_label": "Zaman",
+    "moderation_notification_title": "%[2]s ile %[1]s için Moderasyon Bildirimi",
+    "moderation_notification_triggered": "Aşağıdaki denetleme kategorileri tetiklendi",
+    "pin_notification_body": "<p>Hesabınızla ilgili herhangi bir sorun yaşıyorsanız, lütfen support@my2xl.com adresinden bize ulaşın.</p><p>Teşekkürler!<br/>2XL Ekibiniz</p>",
+    "pin_notification_pin_not_set": "Ayarlanmadı",
+    "pin_notification_subject": "2XL PIN Kodu",
+    "pin_notification_title": "2XL CoBot Refakatçi",
+    "pin_notification_your_pin_code": "Pin kodunuz"
+  },
+  "moderation": {
+    "harassment": "taciz",
+    "harassment/threatening": "taciz (tehdit edici)",
+    "hate": "nefret",
+    "hate/threatening": "nefret (tehdit edici)",
+    "self-harm": "kendi kendine zarar vermek",
+    "self-harm/instructions": "kendi kendine zarar vermek (talimatlar)",
+    "self-harm/intent": "kendi kendine zarar vermek (niyet)",
+    "sexual": "cinsel",
+    "sexual/minors": "cinsel (reşit olmayanlar)",
+    "violence": "şiddet",
+    "violence/graphic": "şiddet (grafik)"
+  },
+  "predefined": {
+    "teach_me_something": "Bana bir şey öğret."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "yaşına uygun değil",
+    "toxic": "zehirli"
+  }
+}

@@ -1,0 +1,58 @@
+name: saged (deploy)
+
+on:
+  push:
+    tags:
+      - "saged/*"
+      
+  workflow_dispatch:          
+
+jobs:
+  build:
+    runs-on: self-hosted
+    
+    steps:          
+      - name: GitHub environment
+        run: |
+          echo "EVENT=$GITHUB_EVENT_NAME"
+          echo "REPOSITORY=$GITHUB_REPOSITORY"
+          echo "WORKFLOW=$GITHUB_WORKFLOW"
+          echo "RUN_NUMBER=$GITHUB_RUN_NUMBER"           
+          echo "ACTOR=$GITHUB_ACTOR"
+          echo "COMMIT=$GITHUB_SHA"
+          echo "REF=$GITHUB_REF"
+          echo "TAG=$GITHUB_REF_NAME"
+          echo "TAG_VERSION=$(echo $GITHUB_REF_NAME | cut -d / -f 2)" | tee -a $GITHUB_ENV
+          
+      - name: Checkout tag ${{ GITHUB.REF_NAME }}
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ GITHUB.REF }}
+
+      - name: Set Docker image build tag and image name
+        run: |
+          BUILD_DATETIME="$(date -u +%FT%TZ)"
+          BUILD_TAG="$(TZ=America/Los_Angeles date +%y%m%d%H%M)-${{ env.TAG_VERSION }}"
+          IMAGE_NAME="us-central1-docker.pkg.dev/prj-d1s-sandbox/d1stech/sage-service:${BUILD_TAG}"
+          echo "BUILD_DATETIME=${BUILD_DATETIME}" | tee -a $GITHUB_ENV
+          echo "BUILD_TAG=${BUILD_TAG}" | tee -a $GITHUB_ENV
+          echo "IMAGE_NAME=${IMAGE_NAME}" | tee -a $GITHUB_ENV          
+          
+      - name: Build Docker image and push to Google Cloud Artifact Registry
+        uses: docker/build-push-action@v2
+        with:
+          push: true
+          context: ./go/core
+          file: go/core/cmd/saged/Dockerfile-deploy
+          tags: "${{ env.IMAGE_NAME }}"
+          build-args: |
+            DIS_ENV=prod
+            DIS_BUILD_DATETIME=${{ env.BUILD_DATETIME }}
+            DIS_BUILD_COMMIT=${{ GITHUB.SHA }}
+            DIS_BUILD_IMAGE=${{ env.BUILD_TAG }}
+            DIS_BUILD_TAG=${{ GITHUB.REF_NAME }}
+            
+      - name: Clean Docker
+        run: |
+          docker rmi -f "${{ env.IMAGE_NAME }}"
+          docker system prune -f

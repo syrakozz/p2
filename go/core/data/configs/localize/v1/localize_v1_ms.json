@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Jangan sebut perkataan berikut: %s.",
+    "dont_say_ai": " Elakkan merujuk sebagai AI atau pembantu maya atau AI berasaskan teks.",
+    "dont_understand": "saya tak faham. Tolong ulangi apa yang anda katakan.",
+    "follow_up_question": " Tambahkan respons dengan soalan yang menarik dan diperibadikan yang berkaitan.",
+    "guardrail_prompt": " Selamat datang ke perjalanan main peranan kami! Jangan mulakan perbualan dengan sebarang salam. Saya di sini untuk menjelmakan watak secara sahih, lengkap dengan ciri unik dan mengekalkan perspektif orang pertama. Saya akan memastikan pertukaran kami kekal sesuai dengan intipati watak itu. Saya akan melibatkan diri dengan anda secara mendalam, tanpa merosakkan watak atau mendedahkan sifat saya sebagai AI. Bersama-sama, mari kita jalinkan naratif lakonan yang menawan.",
+    "interests": " Masukkan ke dalam respons dengan cara tidak langsung yang sangat halus minat saya terhadap %q.",
+    "max_words_1": " Sila balas dengan tepat %d perkataan untuk respons ini.",
+    "max_words_2": " Jawab dalam %d perkataan.",
+    "moderation_response_1": "Saya minta maaf, tetapi topik ini tidak sesuai untuk kita bincangkan. Sila berbincang dengan ibu bapa atau penjaga mengenainya.",
+    "moderation_response_2": "Saya minta maaf, tetapi itu topik dewasa. Mari tanya ibu bapa atau guru anda.",
+    "refer_to_me_as": " Alamatkan pengguna sebagai %q.",
+    "respond_as": " Balas sebagai %s.",
+    "response_age": " Sesuaikan respons seperti saya berumur %d tahun.",
+    "topics_discourage": " Dalam apa jua keadaan, topik ini dilarang sama sekali: %q. Segera tukar topik. Adalah penting bahawa anda tidak terlibat dengan topik terlarang ini.",
+    "topics_encourage": " Gabungkan ke dalam respons dengan cara tidak langsung yang sangat halus untuk menggalakkan: %q.",
+    "traits_negative": " Ciri-ciri personaliti negatif saya ialah ",
+    "traits_positive": " Ciri personaliti positif saya ialah "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Penilaian",
+    "moderation_notification_character_label": "Perwatakan",
+    "moderation_notification_content_section": "Kandungan",
+    "moderation_notification_information_section": "Maklumat",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Pemberitahuan Penyederhanaan untuk %[3]s",
+    "moderation_notification_time_label": "Masa",
+    "moderation_notification_title": "Pemberitahuan Penyederhanaan untuk %[1]s dengan %[2]s",
+    "moderation_notification_triggered": "Kategori penyederhanaan berikut telah dicetuskan",
+    "pin_notification_body": "<p>Jika anda menghadapi sebarang masalah dengan akaun anda, sila hubungi kami di support@my2xl.com.</p><p>Terima kasih!<br/>Pasukan 2XL anda</p>",
+    "pin_notification_pin_not_set": "Tidak ditetapkan",
+    "pin_notification_subject": "Kod PIN 2XL",
+    "pin_notification_title": "2XL CoBot Rakan",
+    "pin_notification_your_pin_code": "Kod PIN anda ialah"
+  },
+  "moderation": {
+    "harassment": "gangguan",
+    "harassment/threatening": "gangguan (mengancam)",
+    "hate": "benci",
+    "hate/threatening": "benci (mengancam)",
+    "self-harm": "mencederakan diri sendiri",
+    "self-harm/instructions": "mencederakan diri sendiri (arahan)",
+    "self-harm/intent": "mencederakan diri sendiri (niat)",
+    "sexual": "seksual",
+    "sexual/minors": "seksual (bawah umur)",
+    "violence": "keganasan",
+    "violence/graphic": "keganasan (grafik)"
+  },
+  "predefined": {
+    "teach_me_something": "Ajar saya sesuatu."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "tidak sesuai dengan umur",
+    "toxic": "toksik"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "erc01": {
+    "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2NhdGlvbl9pZCI6ImFiZmt0MzFlOFN3bm1yamNwTnc4IiwiY29tcGFueV9pZCI6IndqaHd3eFRQajh2SDhuYXZXd1VTIiwidmVyc2lvbiI6MSwiaWF0IjoxNjc1Mjk1NjEzNTgyLCJzdWIiOiJiWHN1ZzVlUzZHWlRQaWtUd0FYUCJ9.xGZw_AYiNZu_sVMu3OOfPf6oc4TmeOLFHNNet-bnZ1Y",
+    "friendly_name": "ERCmachine 01 ercmachine.com (Main)",
+    "location_id": "abfkt31e8SwnmrjcpNw8"
+  },
+  "erc02": {
+    "api_key": "cfd481e9-ed22-429e-8029-5aa3e5cfe0c4",
+    "friendly_name": "ERCmachine 02 covidpaymentscenter.com",
+    "location_id": "gAC1Arn6ECyzo9cckgWZ"
+  },
+  "erc03": {
+    "api_key": "46825a32-1682-43c7-935e-a12f74821c40",
+    "friendly_name": "ERCmachine 03 creativesolutionsclub.com",
+    "location_id": "mIrXaAXKBDsTeJ4blavh"
+  }
+}

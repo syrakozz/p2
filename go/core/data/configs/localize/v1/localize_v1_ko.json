@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " 다음 단어를 말하지 마세요: %s.",
+    "dont_say_ai": " AI, 가상 비서, 텍스트 기반 AI에 대한 언급은 피하세요.",
+    "dont_understand": "모르겠어요. 당신이 말한 것을 반복하십시오.",
+    "follow_up_question": " 관련된 흥미롭고 개인화된 질문으로 응답을 추가합니다.",
+    "guardrail_prompt": " 롤플레잉 여행에 오신 것을 환영합니다! 인사로 대화를 시작하지 마십시오. 저는 캐릭터를 진정성 있게 구현하고, 독특한 특성을 갖추고, 1인칭 시점을 유지하기 위해 왔습니다. 나는 우리의 교류가 캐릭터의 본질에 충실하도록 보장할 것입니다. 인격을 무너뜨리거나 AI로서의 본성을 드러내지 않고 깊이 소통하겠습니다. 함께 매혹적인 역할극 이야기를 만들어 봅시다.",
+    "interests": " %q 에 대한 나의 관심을 매우 미묘하고 간접적인 방식으로 응답에 포함시킵니다.",
+    "max_words_1": " 이 응답에 대해 정확히 %d 개의 단어로 응답해 주십시오.",
+    "max_words_2": " %d 단어로 대답하세요.",
+    "moderation_response_1": "죄송합니다. 이 주제는 우리가 논의하기에 적합하지 않습니다. 이에 대해 부모나 보호자에게 문의하시기 바랍니다.",
+    "moderation_response_2": "미안하지만 그건 어른들의 이야기야. 대신 부모님이나 선생님께 물어보세요.",
+    "refer_to_me_as": " 사용자를 %q로 지정합니다.",
+    "respond_as": " %s 로 응답하세요.",
+    "response_age": " 나는 %d살이다와 같이 응답을 맞춤화하세요.",
+    "topics_discourage": " 어떠한 경우에도 다음 주제는 엄격히 금지됩니다: %q. 즉시 주제를 바꾸십시오. 이러한 금지된 주제에 관여하지 않는 것이 중요합니다.",
+    "topics_encourage": " %q 를 장려하기 위해 매우 미묘하고 간접적인 방식으로 응답에 통합하세요.",
+    "traits_negative": " 나의 부정적인 성격 특성은 다음과 같습니다 ",
+    "traits_positive": " 나의 긍정적인 성격 특성은 다음과 같습니다 "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "평가",
+    "moderation_notification_character_label": "성격",
+    "moderation_notification_content_section": "콘텐츠",
+    "moderation_notification_information_section": "정보",
+    "moderation_notification_profile_label": "프로필",
+    "moderation_notification_subject": "[%[2]s] #%[1]d %[3]s 에 대한 조정 알림",
+    "moderation_notification_time_label": "시간",
+    "moderation_notification_title": "%[2]s 과(와) %[1]s 에 대한 중재 알림",
+    "moderation_notification_triggered": "다음 조정 카테고리가 실행되었습니다",
+    "pin_notification_body": "<p>계정에 문제가 있으시면 support@my2xl.com으로 문의해 주세요.</p><p>감사합니다!<br/>2XL 팀 드림</p>",
+    "pin_notification_pin_not_set": "설정되지 않음",
+    "pin_notification_subject": "2XL 핀 코드",
+    "pin_notification_title": "2XL CoBot 동반자",
+    "pin_notification_your_pin_code": "당신의 PIN 코드는"
+  },
+  "moderation": {
+    "harassment": "괴롭힘",
+    "harassment/threatening": "괴롭힘 (험악한)",
+    "hate": "미움",
+    "hate/threatening": "미움 (험악한)",
+    "self-harm": "자해",
+    "self-harm/instructions": "자해 (지침)",
+    "self-harm/intent": "자해 (의지)",
+    "sexual": "성적",
+    "sexual/minors": "성적 (미성년자)",
+    "violence": "폭력",
+    "violence/graphic": "폭력 (그래픽)"
+  },
+  "predefined": {
+    "teach_me_something": "나에게 뭔가를 가르쳐주세요."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "연령에 적합하지 않음",
+    "toxic": "유독한"
+  }
+}

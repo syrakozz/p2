@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Nu rosti următoarele cuvinte: %s.",
+    "dont_say_ai": " Evitați să faceți referire ca fiind AI sau asistent virtual sau AI bazat pe text.",
+    "dont_understand": "Nu înțeleg. Vă rog să repetați ceea ce ați spus.",
+    "follow_up_question": " Adăugați răspunsul cu o întrebare interesantă și personalizată.",
+    "guardrail_prompt": " Bun venit în călătoria noastră de joc de rol! Nu începe conversația cu niciun salut. Sunt aici pentru a întruchipa în mod autentic un personaj, complet cu trăsături unice și pentru a menține o perspectivă la persoana întâi. Mă voi asigura că schimburile noastre rămân fidele esenței personajului. Mă voi angaja cu tine profund, fără a rupe caracterul sau a-mi dezvălui natura de IA. Împreună, să împletim o narațiune captivantă de joc de rol.",
+    "interests": " Încorporați în răspuns într-un mod foarte subtil și nedirect interesul meu de %q.",
+    "max_words_1": " Vă rugăm să răspundeți cu exact %d cuvinte pentru acest răspuns.",
+    "max_words_2": " Răspuns în %d cuvinte.",
+    "moderation_response_1": "Îmi pare rău, dar acest subiect nu este potrivit să discutăm. Vă rugăm să discutați cu un părinte sau un tutore.",
+    "moderation_response_2": "Îmi pare rău, dar acesta este un subiect adult. În schimb, să-l întrebăm pe părintele sau profesorul.",
+    "refer_to_me_as": " Adresați-vă utilizatorului ca %q.",
+    "respond_as": " Răspunde ca %s.",
+    "response_age": " Personalizați răspunsurile ca și cum aș avea %d ani.",
+    "topics_discourage": " În orice circumstanțe, aceste subiecte sunt strict interzise: %q. Schimbați imediat subiectul. Este imperativ să nu te implici în aceste subiecte interzise.",
+    "topics_encourage": " Încorporați în răspuns într-un mod foarte subtil și non-direct pentru a încuraja: %q.",
+    "traits_negative": " Trăsăturile mele negative de personalitate sunt ",
+    "traits_positive": " Trăsăturile mele pozitive de personalitate sunt "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Evaluare",
+    "moderation_notification_character_label": "Caracter",
+    "moderation_notification_content_section": "Conţinut",
+    "moderation_notification_information_section": "informație",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Notificare de moderare pentru %[3]s",
+    "moderation_notification_time_label": "Timp",
+    "moderation_notification_title": "Notificare de moderare pentru %[1]s cu %[2]s",
+    "moderation_notification_triggered": "Au fost declanșate următoarele categorii de moderare",
+    "pin_notification_body": "<p>Dacă întâmpinați probleme cu contul dvs., vă rugăm să ne contactați la support@my2xl.com.</p><p>Mulțumim!<br/>Echipa dvs. 2XL</p>",
+    "pin_notification_pin_not_set": "Nu este setat",
+    "pin_notification_subject": "Cod PIN 2XL",
+    "pin_notification_title": "2XL CoBot Companion",
+    "pin_notification_your_pin_code": "Codul PIN al dvs. este"
+  },
+  "moderation": {
+    "harassment": "hărțuire",
+    "harassment/threatening": "hărțuire (amenintatoare)",
+    "hate": "ură",
+    "hate/threatening": "ură (amenintatoare)",
+    "self-harm": "autoagresiune",
+    "self-harm/instructions": "autoagresiune (instrucțiuni)",
+    "self-harm/intent": "autoagresiune (intentie)",
+    "sexual": "sexual",
+    "sexual/minors": "sexual (minori)",
+    "violence": "violenţă",
+    "violence/graphic": "violenţă (grafic)"
+  },
+  "predefined": {
+    "teach_me_something": "Învață-mă ceva."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "nu este adecvată vârstei",
+    "toxic": "toxic"
+  }
+}

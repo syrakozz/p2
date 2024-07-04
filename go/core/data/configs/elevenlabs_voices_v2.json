@@ -1,0 +1,296 @@
+{
+  "annie": {
+    "id": "yG3RxH5ht2pxr6fOtfhP",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "bella": {
+    "id": "EXAVITQu4vr4xnSDxMaL",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "domi": {
+    "id": "AZnzlk1XvdvUeBnXmlld",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "elli": {
+    "id": "MF3mGyEYCl7XYWbV9V6O",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "joanne": {
+    "id": "uAcjf5yqkbd3Jcmu7RIE",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "lena": {
+    "id": "H8eNM4sPuQQ99cHqOnWC",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "naomi": {
+    "id": "Sf0qi7yqBFBskW8jRDMe",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "rachel": {
+    "id": "21m00Tcm4TlvDq8ikWAM",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "tera": {
+    "id": "0oMsGu7mzTV7PQEOns0g",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "veda": {
+    "id": "SY7l4VD5W8s8zXX3raVO",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "adam": {
+    "id": "pNInz6obpgDQGcFmaJgB",
+    "similarity_boost": 75,
+    "stability": 40,
+    "style_exaggeration": 0
+  },
+  "antoni": {
+    "id": "ErXwobaYiN019PkySvjV",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "arnold": {
+    "id": "VR6AewLTigWG4xSOukaG",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "chris": {
+    "id": "w8AN4LdfVluuEnaMVwv5",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "djano": {
+    "id": "O4GQs5kZxLlKqgyheOyg",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "freddy": {
+    "id": "P1Q4Xfen18i98npQtXbH",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "josh": {
+    "id": "TxGEqnHWrfWFTfGW9XjX",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "juan": {
+    "id": "lx8LAX2EUAKftVz0Dk5z",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "kevin": {
+    "id": "dbjzsNXoAXCCvXLdXW2e",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "noah": {
+    "id": "UEitTQsj56aY8gPDQTfP",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "ryankurk": {
+    "id": "rU18Fk3uSDhmg5Xh41o4",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "sam": {
+    "id": "yoZ06aMxZJJ28mfd3POQ",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  }, 
+  "2xl": {
+    "id": "plOd7yObHa4boWZ1EUiQ",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "barbie": {
+    "id": "V4jqPqopNh3HTa2iJ48R",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "batman": {
+    "id": "QkWMpIJl0Xa87GS2weAs",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "bingo": {
+    "id": "4Gl41hDLpC2xC27RAZlX",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 0
+  },
+  "blackpanther": {
+    "id": "PsSqW5LG5TE7ESyHhdVs",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 0
+  },
+  "bluey": {
+    "id": "y7NDms1dw4SqhwGLiRBT",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 0
+  },
+  "c3po": {
+    "id": "NTyhGBDniSswDaQlF4ib",
+    "similarity_boost": 40,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "elmo": {
+    "id": "sTCW0bJB1ntDxn48Lmik",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 0
+  },
+  "jarvis": {
+    "id": "z478iVV8hbdX5dHdGZeR",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "joker": {
+    "id": "j7F7EjpgKiZ4zpMLbiAU",
+    "similarity_boost": 75,
+    "stability": 40,
+    "style_exaggeration": 0
+  },
+  "jokermarkhamill": {
+    "id": "0OXu1vEw7DVd99jj7IrW",
+    "similarity_boost": 75,
+    "stability": 40,
+    "style_exaggeration": 0
+  },
+  "johnny5": {
+    "id": "1s5R84KG5zficcpdCE3R",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "magic8ballfemale": {
+    "id": "FXITzJFj7a15Spw2Ng3q",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "magic8ballmale": {
+    "id": "987GT3HJTpoTtZfIwaiS",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "mario": {
+    "id": "5Q08vMSM0JhU3OVoRLcq",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 0
+  },
+  "maxverstappen": {
+    "id": "8NJEDvL71a6mDuwAcIPs",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "optimus": {
+    "id": "w34WBL6bYIsv3CwAinig",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "paulbettany": {
+    "id": "w2EoruPU65K03PmhBjHU",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "pooh": {
+    "id": "6mEPEQbaWvRsxEZdayAV",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 1
+  },
+  "riddler": {
+    "id": "J7AvvdC5wsyV3UrvVM9e",
+    "similarity_boost": 75,
+    "stability": 45,
+    "style_exaggeration": 1
+  },
+  "sagan": {
+    "id": "fZX2yln6TAd6K0bNp7bj",
+    "similarity_boost": 75,
+    "stability": 45,
+    "style_exaggeration": 0
+  },
+  "spongebob": {
+    "id": "4i4X4KS4Uy8rfneMmmlm",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  }, 
+  "supermanhenrycavill": {
+    "id": "Yirth8EKq71IuYY5kDB0",
+    "similarity_boost": 75,
+    "stability": 40,
+    "style_exaggeration": 0
+  },
+  "thorne": {
+    "id": "tclyU9BdxV4wWlKqbPHO",
+    "similarity_boost": 60,
+    "stability": 35,
+    "style_exaggeration": 0
+  },
+  "ursula": {
+    "id": "HR3yupjWOhf1T29hAlR9",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 1
+  },
+  "vinneychopra": {
+    "id": "jbThyWfoZaqrBeuIsG1u",
+    "similarity_boost": 75,
+    "stability": 50,
+    "style_exaggeration": 0
+  },
+  "yoda": {
+    "id": "cmVu7DgQy6KKvABCU8Ba",
+    "similarity_boost": 75,
+    "stability": 75,
+    "style_exaggeration": 1
+  }
+}

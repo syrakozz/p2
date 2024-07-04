@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " อย่าพูดคำต่อไปนี้: %s",
+    "dont_say_ai": " หลีกเลี่ยงการอ้างอิงถึง AI หรือผู้ช่วยเสมือน หรือ AI แบบข้อความ",
+    "dont_understand": "ฉันไม่เข้าใจ. กรุณาทวนสิ่งที่คุณพูดอีกครั้ง",
+    "follow_up_question": " เพิ่มคำตอบด้วยคำถามที่เกี่ยวข้องและเป็นส่วนตัว",
+    "guardrail_prompt": " ยินดีต้อนรับสู่การเดินทางสวมบทบาทของเรา! อย่าเริ่มบทสนทนาด้วยการทักทายใดๆ ฉันมาที่นี่เพื่อรวบรวมตัวละครอย่างแท้จริง พร้อมด้วยคุณลักษณะเฉพาะตัวและรักษามุมมองบุคคลที่หนึ่ง ฉันจะให้แน่ใจว่าการแลกเปลี่ยนของเรายังคงเป็นจริงต่อแก่นแท้ของตัวละคร ฉันจะมีส่วนร่วมกับคุณอย่างลึกซึ้ง โดยไม่ทำลายอุปนิสัยหรือเปิดเผยธรรมชาติของฉันในฐานะ AI มาร่วมกันสานต่อการเล่าเรื่องบทบาทสมมติที่น่าหลงใหล",
+    "interests": " รวมเข้ากับคำตอบด้วยวิธีที่ไม่ตรงไปตรงมาซึ่งความสนใจของฉันคือ %q",
+    "max_words_1": " โปรดตอบกลับด้วย %d คำสำหรับการตอบกลับนี้",
+    "max_words_2": " ตอบเป็น %d คำ",
+    "moderation_response_1": "ฉันขอโทษ หัวข้อนี้ไม่เหมาะสำหรับเราที่จะพูดคุย โปรดพูดคุยกับพ่อแม่หรือผู้ปกครองเกี่ยวกับเรื่องนี้",
+    "moderation_response_2": "ฉันขอโทษ แต่นั่นเป็นหัวข้อสำหรับผู้ใหญ่ ลองถามผู้ปกครองหรือครูของคุณแทน",
+    "refer_to_me_as": " ระบุผู้ใช้เป็น %q",
+    "respond_as": " ตอบกลับเป็น %s",
+    "response_age": " ช่างตัดเสื้อตอบกลับเหมือนว่าฉันอายุ %d ปี",
+    "topics_discourage": " ไม่ว่าในกรณีใด ๆ หัวข้อเหล่านี้จะถูกห้ามโดยเด็ดขาด: %q เปลี่ยนเรื่องทันที มีความจำเป็นที่คุณจะต้องไม่เกี่ยวข้องกับหัวข้อต้องห้ามเหล่านี้",
+    "topics_encourage": " รวมเข้ากับคำตอบด้วยวิธีที่ไม่อ้อมค้อมเพื่อสนับสนุน: %q",
+    "traits_negative": " ลักษณะบุคลิกภาพเชิงลบของฉันคือ ",
+    "traits_positive": " ลักษณะบุคลิกภาพเชิงบวกของฉันคือ "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "การประเมิน",
+    "moderation_notification_character_label": "อักขระ",
+    "moderation_notification_content_section": "เนื้อหา",
+    "moderation_notification_information_section": "ข้อมูล",
+    "moderation_notification_profile_label": "ประวัติโดยย่อ",
+    "moderation_notification_subject": "[%[2]s] #%[1]d การแจ้งเตือนการกลั่นกรองสำหรับ %[3]s",
+    "moderation_notification_time_label": "Time",
+    "moderation_notification_title": "การแจ้งเตือนการกลั่นกรองสำหรับ %[1]s กับ %[2]s",
+    "moderation_notification_triggered": "หมวดหมู่การดูแลต่อไปนี้ถูกทริกเกอร์",
+    "pin_notification_body": "<p>หากคุณมีปัญหาใด ๆ กับบัญชีของคุณ โปรดติดต่อเราที่ support@my2xl.com</p><p>ขอบคุณ!<br/>ทีม 2XL ของคุณ</p>",
+    "pin_notification_pin_not_set": "ไม่ได้ตั้งค่า",
+    "pin_notification_subject": "รหัส PIN 2XL",
+    "pin_notification_title": "2XL CoBot เพื่อน",
+    "pin_notification_your_pin_code": "รหัส PIN ของคุณคือ"
+  },
+  "moderation": {
+    "harassment": "การล่วงละเมิด",
+    "harassment/threatening": "การล่วงละเมิด (คุกคาม)",
+    "hate": "เกลียด",
+    "hate/threatening": "เกลียด (คุกคาม)",
+    "self-harm": "การทำร้ายตัวเอง",
+    "self-harm/instructions": "การทำร้ายตัวเอง (คำแนะนำ)",
+    "self-harm/intent": "การทำร้ายตัวเอง (เจตนา)",
+    "sexual": "ทางเพศ",
+    "sexual/minors": "ทางเพศ (ผู้เยาว์)",
+    "violence": "ความรุนแรง",
+    "violence/graphic": "ความรุนแรง (กราฟิก)"
+  },
+  "predefined": {
+    "teach_me_something": "สอนฉันบางอย่าง"
+  },
+  "text_analysis": {
+    "not_age_appropriate": "ไม่เหมาะสมกับวัย",
+    "toxic": "พิษร้าย"
+  }
+}

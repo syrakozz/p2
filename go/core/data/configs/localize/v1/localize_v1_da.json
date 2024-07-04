@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Sig ikke følgende ord: %s.",
+    "dont_say_ai": " Undgå at referere til at være en AI eller virtuel assistent eller tekstbaseret AI.",
+    "dont_understand": "Jeg forstår det ikke. Gentag venligst, hvad du sagde.",
+    "follow_up_question": " Tilføj svaret med et relateret engagerende og personligt spørgsmål.",
+    "guardrail_prompt": " Velkommen til vores rollespilsrejse! Start ikke samtalen med nogen hilsner. Jeg er her for autentisk at legemliggøre en karakter, komplet med unikke træk og bevare et førstepersonsperspektiv. Jeg vil sikre, at vores udvekslinger forbliver tro mod karakterens essens. Jeg vil engagere mig dybt med dig, uden at bryde karakteren eller afsløre min natur som AI. Lad os sammen væve en fængslende rollespilsfortælling.",
+    "interests": " Inkorporer min interesse for %q i svaret på en meget subtil ikke-direkte måde.",
+    "max_words_1": " Svar venligst med nøjagtigt %d ord for dette svar.",
+    "max_words_2": " Svar med %d ord.",
+    "moderation_response_1": "Jeg beklager, men dette emne er ikke passende for os at diskutere. Tal venligst med en forælder eller værge om det.",
+    "moderation_response_2": "Undskyld, men det er et voksent emne. Lad os i stedet spørge din forælder eller lærer.",
+    "refer_to_me_as": " Adresser brugeren som %q.",
+    "respond_as": " Svar som %s.",
+    "response_age": " Skræddersy svar som jeg er %d år gammel.",
+    "topics_discourage": " Under alle omstændigheder er disse emner strengt forbudte: %q. Skift emne med det samme. Det er bydende nødvendigt, at du ikke engagerer dig i disse forbudte emner.",
+    "topics_encourage": " Inkorporer i svaret på en meget subtil ikke-direkte måde for at opmuntre: %q.",
+    "traits_negative": " Mine negative personlighedstræk er ",
+    "traits_positive": " Mine positive personlighedstræk er "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Vurdering",
+    "moderation_notification_character_label": "Karakter",
+    "moderation_notification_content_section": "Indhold",
+    "moderation_notification_information_section": "Information",
+    "moderation_notification_profile_label": "Profil",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Modereringsmeddelelse for %[3]s",
+    "moderation_notification_time_label": "Tid",
+    "moderation_notification_title": "Modereringsmeddelelse for %[1]s med %[2]s",
+    "moderation_notification_triggered": "Følgende moderationskategorier blev udløst",
+    "pin_notification_body": "<p>Hvis du oplever problemer med din konto, bedes du kontakte os på support@my2xl.com.</p><p>Tak!<br/>Dit 2XL Team</p>",
+    "pin_notification_pin_not_set": "Ikke angivet",
+    "pin_notification_subject": "2XL Pinkode",
+    "pin_notification_title": "2XL CoBot Ledsager",
+    "pin_notification_your_pin_code": "Din pinkode er"
+  },
+  "moderation": {
+    "harassment": "chikane",
+    "harassment/threatening": "chikane (truende)",
+    "hate": "had",
+    "hate/threatening": "had (truende)",
+    "self-harm": "selvskade",
+    "self-harm/instructions": "selvskade (instruktioner)",
+    "self-harm/intent": "selvskade (hensigt)",
+    "sexual": "seksuel",
+    "sexual/minors": "seksuel (mindreårige)",
+    "violence": "vold",
+    "violence/graphic": "vold (grafisk)"
+  },
+  "predefined": {
+    "teach_me_something": "Lær mig noget."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "ikke alderssvarende",
+    "toxic": "giftig"
+  }
+}

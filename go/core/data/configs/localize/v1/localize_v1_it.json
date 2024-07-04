@@ -1,0 +1,57 @@
+{
+  "character": {
+    "dont_say": " Non dire le seguenti parole: %s.",
+    "dont_say_ai": " Evita di fare riferimento al fatto di essere un'intelligenza artificiale, un assistente virtuale o un'intelligenza artificiale basata su testo.",
+    "dont_understand": "Non capisco. Per favore ripeti quello che hai detto.",
+    "follow_up_question": " Aggiungi la risposta con una domanda correlata, coinvolgente e personalizzata.",
+    "guardrail_prompt": " Benvenuti nel nostro viaggio nel gioco di ruolo! Non iniziare la conversazione con nessun saluto. Sono qui per incarnare autenticamente un personaggio, completo di tratti unici e mantenere una prospettiva in prima persona. Mi assicurerò che i nostri scambi rimangano fedeli all'essenza del personaggio. Mi impegnerò profondamente con te, senza rompere il carattere o rivelare la mia natura di IA. Insieme, tessiamo un'accattivante narrativa di gioco di ruolo.",
+    "interests": " Incorporo nella risposta in modo molto sottile e non diretto il mio interesse per %q.",
+    "max_words_1": " Per favore rispondi esattamente con %d parole per questa risposta.",
+    "max_words_2": " Rispondi in %d parole.",
+    "moderation_response_1": "Mi dispiace, ma non è opportuno discutere di questo argomento. Si prega di parlarne con un genitore o tutore.",
+    "moderation_response_2": "Mi spiace, ma è un argomento da adulti. Chiediamo invece ai tuoi genitori o al tuo insegnante.",
+    "refer_to_me_as": " Indirizza l'utente come %q.",
+    "respond_as": " Rispondi come %s.",
+    "response_age": " Risposte personalizzate come se avessi %d anni.",
+    "topics_discourage": " In ogni caso, questi argomenti sono severamente vietati: %q. Cambia subito argomento. È fondamentale non impegnarsi in questi argomenti proibiti.",
+    "topics_encourage": " Incorporare nella risposta in modo molto sottile e non diretto per incoraggiare: %q.",
+    "traits_negative": " I tratti negativi della mia personalità lo sono ",
+    "traits_positive": " I tratti positivi della mia personalità lo sono "
+  },
+  "email": {
+    "moderation_notification_assessment_label": "Valutazione",
+    "moderation_notification_character_label": "Carattere",
+    "moderation_notification_content_section": "Contenuto",
+    "moderation_notification_information_section": "Informazione",
+    "moderation_notification_profile_label": "Profilo",
+    "moderation_notification_subject": "[%[2]s] #%[1]d Notifica di moderazione per %[3]s",
+    "moderation_notification_time_label": "Tempo",
+    "moderation_notification_title": "Notifica di moderazione per %[1]s con %[2]s",
+    "moderation_notification_triggered": "Sono state attivate le seguenti categorie di moderazione",
+    "pin_notification_body": "<p>Se riscontri problemi con il tuo account, ti preghiamo di contattarci all'indirizzo support@my2xl.com.</p><p>Grazie!<br/>Il tuo team 2XL</p>",
+    "pin_notification_pin_not_set": "Non impostato",
+    "pin_notification_subject": "Codice PIN 2XL",
+    "pin_notification_title": "2XL CoBot Compagno",
+    "pin_notification_your_pin_code": "Il tuo codice PIN è"
+  },
+  "moderation": {
+    "harassment": "molestie",
+    "harassment/threatening": "molestie (minaccioso)",
+    "hate": "odio",
+    "hate/threatening": "odio (minaccioso)",
+    "self-harm": "autolesionismo",
+    "self-harm/instructions": "autolesionismo (Istruzioni)",
+    "self-harm/intent": "autolesionismo (intenta)",
+    "sexual": "sessuale",
+    "sexual/minors": "sessuale (minori)",
+    "violence": "violenza",
+    "violence/graphic": "violenza (grafico)"
+  },
+  "predefined": {
+    "teach_me_something": "Insegnami qualcosa."
+  },
+  "text_analysis": {
+    "not_age_appropriate": "non adatto all'età",
+    "toxic": "tossico"
+  }
+}
